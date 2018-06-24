@@ -2827,8 +2827,9 @@
 			}
 
 				#header nav {
-					top: 0;
-					right: 0;
+					top: 25%;
+					right: -1%;
+					font-size: 25px;
 					height: inherit;
 					line-height: inherit;
 				}
@@ -3000,6 +3001,7 @@
 
 				#menu .inner .close {
 					background-size: 1.5em 1.5em;
+					font-size: 25px;
 				}
 
 		}
